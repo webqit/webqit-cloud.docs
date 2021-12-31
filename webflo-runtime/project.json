@@ -2,7 +2,8 @@
     "title": "Webflo Runtime (Coming Soon)",
     "icon": "app-indicator",
     "desc": "Instant deployment platform for Webflo apps. A robust infrastructure for when you're scaling by the day. Ship, iterate, scale!",
-    "categories": ["Featured", "Compute"],
+    "categories": ["Compute"],
+    "_index": "first",
     "tags": ["Web", "Mobile", "API Backends", "Dev Server", "Production Server", "GIT Workflow"],
     "quickstart": {
         "type": "form", 

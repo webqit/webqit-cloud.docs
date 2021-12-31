@@ -4,8 +4,8 @@
             "outline": [
                 {
                     "level": 2,
-                    "title": "Webflo Runtime",
-                    "uri": "webflo-runtime",
+                    "title": "WebQit Auth",
+                    "uri": "webqit-auth",
                     "subtree": []
                 }
             ]
